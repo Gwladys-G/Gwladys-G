@@ -3,7 +3,7 @@
 My name is Gwladys and I'm having the best time continuously improving on my coding skills :computer::brain::muscle:
 
 
-- :hatched_chick: I’m currently learning Node.JS and Typescript to deepen my Javascript knowledge and strengthen my Full stack profile.
+- :hatched_chick: I’m currently practising Express-Node.JS and Typescript to deepen my Javascript knowledge and strengthen my Full stack profile.
 
 
 <h3 align="left">Languages and Tools:</h3>
