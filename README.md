@@ -1,11 +1,5 @@
 ### Hello and Thank you for taking a look at my profile ! :herb: 
 
-My name is Gwladys and I'm having the best time continuously improving my coding skills :muscle:
-
-
-- :hatched_chick: I’m currently practising Express-Node.JS and Typescript to deepen my Javascript knowledge and strengthen my Full stack profile.
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
