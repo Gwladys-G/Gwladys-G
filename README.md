@@ -19,8 +19,8 @@
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
 
-## [My Portfolio](https://gwladys-g.github.io/my-portfolio/) 
+### [My Portfolio](https://gwladys-g.github.io/my-portfolio/) 
 
-### [Let's connect :busts_in_silhouette:](https://www.linkedin.com/in/gwladysengels/)
+### [:busts_in_silhouette:](https://www.linkedin.com/in/gwladysengels/)
 
 
